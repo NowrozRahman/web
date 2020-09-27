@@ -45,14 +45,25 @@ section{
 
 }
 .trio-width {
-    width: 33.3%;
+    padding-left: 18px;
     float: left;
-    margin-left: 5%;
-    padding-left: 2%;
-}
+    width: 30%;
+    margin: 8px;
+    align-content: center;}
 .trio-width img {
     width: 100%;
 }
-
+.latest-work{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.work-banner{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
 
 
